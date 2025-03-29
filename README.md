@@ -18,7 +18,7 @@
 
 ### 1. Клонирование репозитория:
 ```bash
-git clone https://github.com/ваш-профиль/ton-price-prediction.git
+git clone https://github.com/LeeVitaliy/ton-price-prediction.git
 cd ton-price-prediction
 ```
 
@@ -51,7 +51,7 @@ jupyter notebook ton_price_prediction.ipynb
 ---
 
 ## 💡 Контакты
-Если у вас возникли вопросы или предложения по улучшению, не стесняйтесь обращаться через GitHub Issues или напрямую на email: your-email@example.com.
+Если у вас возникли вопросы или предложения по улучшению, не стесняйтесь обращаться через GitHub Issues или напрямую на email: blablabla@example.com.
 
 ---
 
